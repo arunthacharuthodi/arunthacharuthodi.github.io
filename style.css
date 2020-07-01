@@ -1,0 +1,71 @@
+*{
+margin:0px;
+padding:0px;
+font-family: 'Poppins', sans-serif;;
+text-align:center;
+box-sizing:border-box;
+}
+.form-all {
+flex-direction:coloum;
+text-align:center;
+height:100vh;
+}
+input {
+width:90%;
+height:20%;
+}
+.form-btn button {
+margin:20px 20px 15px 20px;
+width:150px;
+border:2px solid #c36cbb;
+font-size:16px;
+background:transparent;
+padding:10px;
+}
+.form-output  input {
+width:90%;
+height:150px;
+}
+
+.cp-btn button {
+
+margin:20px 10px 15px 10px;
+width:150px;
+border:2px solid yellow;
+font-size:16px;
+background:#c36cbb;
+padding:10px;
+color:white;
+
+}
+h1{
+
+font-size:44px;
+font-weight:500;
+background:linear-gradient(to right, #494964, #6f6f89);
+-webkit-background-clip:text;
+-webkit-text-fill-color:transparent;
+}
+.link-insta button {
+color:black;
+margin-top:30px;
+border-radius:22px;
+background:transparent;
+border:2px solid cyan;
+width:250px;
+} 
+.link-insta button a {
+
+text-decoration:none;
+
+
+}
+
+.form-output textarea  {
+
+width:90%;
+height:200px;
+
+
+
+}
